@@ -2,11 +2,11 @@
 
 Solid é um acrônimo que representa cinco princípios de design de software orientado a objetos que visam criar sistemas mais compreensíveis, flexíveis e de fácil manutenção. Cada letra de SOLID representa um princípio. 
 
-S -> Single Responsibility Principle (Principio de responsabilidade única)
-O -> Open/Closed Principle (Principio de Aberto/Fechado)
-L -> Liskov Substitution Principle (Principio de Substituição de Liskov)
-I -> Interface Segregation Principle (Principio de Segregação de Interface)
-D -> Dependency Inversion Principle (Principio da Inversão de Dependência)
+- S -> Single Responsibility Principle (Principio de responsabilidade única)
+- O -> Open/Closed Principle (Principio de Aberto/Fechado)
+- L -> Liskov Substitution Principle (Principio de Substituição de Liskov)
+- I -> Interface Segregation Principle (Principio de Segregação de Interface)
+- D -> Dependency Inversion Principle (Principio da Inversão de Dependência)
 
 ## Single Responsibility Principle
 
